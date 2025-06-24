@@ -1,0 +1,51 @@
+⚠️ WARNING – BloomASCII Software (GitHub EXE) ⚠️
+🖥️ Type: All-in-One .exe Application from GitHub
+📁 Category: ASCII Art Generator / Visualizer Tool
+
+❗ DANGER ZONE:
+🧱 All-in-One Executables (.exe) can contain hidden code
+
+🧪 No installer means no clear list of changes made to your system
+
+🧠 Self-contained – but may include trackers, scripts, or injectors
+
+🔐 Not Microsoft-signed – Windows Defender or Antivirus may alert
+
+🐛 Open-source tag ≠ Safe: Just because it's on GitHub doesn't mean it's clean!
+
+⚠️ Common Issues:
+📊 High system load (CPU, GPU, RAM spikes)
+
+🕳️ File system access without warning
+
+📡 Possible background internet activity
+
+🔧 May not uninstall completely
+
+🔁 Autostart entries or hidden services
+
+✅ Use Safely:
+⚙️ Test in virtual machine (VM) or sandbox environment
+
+🔍 Review the GitHub code before compiling, if possible
+
+📤 Block internet access (firewall) during runtime
+
+📁 Keep away from sensitive folders like Documents, System32, or AppData
+
+🧼 After use, scan with antivirus and check for autorun entries
+
+🗣️ Readable Across ~17.5 Languages:
+This format uses universal icons + clear structure, understandable for:
+
+🌐 Simple English readers
+
+🌍 Español, Português, Français, Deutsch, Русский, العربية, 中文, 日本語, 한국어, हिन्दी, Türkçe, Bahasa Indonesia, Italiano, ภาษาไทย, Українська
+
+🧠 Semi-understandable by readers of Esperanto, basic Latin roots
+
+🛑 FINAL NOTE:
+💬 If BloomASCII .exe comes from an unknown developer or has no digital signature, do NOT run it on your main PC.
+🧩 Use verified alternatives or build from source manually.
+
+📢 BloomASCII is at your own risk. Stay informed. Stay protected.
