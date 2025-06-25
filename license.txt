@@ -1,0 +1,68 @@
+==================================================
+        BloomASCII - LICENSE & INFORMATION
+==================================================
+
+Software Name: BloomASCII  
+Version: 1.0.0  
+Type: All-in-One Executable (.exe)  
+Author: [Your Name or Company]  
+Website: [optional]  
+
+--------------------------------------------------
+License Terms
+--------------------------------------------------
+
+This software is provided "as-is," without any express or implied warranty.  
+In no event will the authors be held liable for any damages arising from the use of this software.
+
+Permission is granted to anyone to use, distribute, and copy this software for personal, educational, and commercial purposes, subject to the following conditions:
+
+1. The origin of this software must not be misrepresented.  
+2. You must not claim that you wrote the original software.  
+3. This notice must not be removed or altered from any distribution.
+
+You are NOT allowed to:
+- Resell the software without permission.
+- Reverse-engineer, modify, or repackage the application.
+- Use it for malicious or harmful purposes.
+
+--------------------------------------------------
+Executable Info
+--------------------------------------------------
+
+File Type: Windows Executable (.exe)  
+Architecture: x86/x64 Universal  
+All-in-One EXE: Includes all runtime assets (fonts, ASCII art packs, config).  
+No external dependencies required.
+
+--------------------------------------------------
+Operating System Requirements
+--------------------------------------------------
+
+Supported Desktop OS:
+- Windows 7, 8, 8.1, 10, 11 (Recommended: Windows 10 or later)
+- Linux (via Wine, partial support)
+- macOS (via Wine/Crossover, limited support)
+
+Minimum Specs:
+- RAM: 1 GB
+- CPU: 1.2 GHz Dual-Core
+- Screen: 800x600 minimum
+- Storage: 15 MB free space
+
+--------------------------------------------------
+Mobile Compatibility
+--------------------------------------------------
+
+BloomASCII is designed for desktop platforms only.  
+However, you can run it on Android using these methods:
+
+1. **Wine for Android**  
+2. **ExaGear (legacy support)**  
+3. **Winlator (experimental support)**
+
+⚠ iOS is not supported unless jailbroken and running Wine-compatible layers.
+
+--------------------------------------------------
+End of License & Info
+--------------------------------------------------
